@@ -159,13 +159,13 @@ Gerencie vários restaurantes ou unidades com um único login. Dados isolados po
 <tr>
 <td>
 
-**Daniel Camargo** — Engenheiro full-stack, entusiasta de automação e gestão de restaurantes.
+**Daniel Camargo** — Engenheiro full-stack, especialista em automação e gestão de restaurantes.
 
 Construindo o CMV Buffet para que qualquer restaurante possa controlar custos com precisão — sem planilhas.
 
 <p>
   <a href="https://www.linkedin.com/in/daniel13"><img src="https://img.shields.io/badge/LinkedIn-daniel13-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:daniel.scheidemantel@gmail.com"><img src="https://img.shields.io/badge/Email-contato-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hello@dans.ch"><img src="https://img.shields.io/badge/Email-hello@dans.ch-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 </td>
