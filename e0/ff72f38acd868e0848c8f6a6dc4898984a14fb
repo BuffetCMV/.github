@@ -1,0 +1,19 @@
+profile/README.md
+  s_59a823c92b5937::t_f34685c1073f4b 162,168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e0ff72f38acd868e0848c8f6a6dc4898984a14fb",
+  "prompts": {},
+  "sessions": {
+    "s_59a823c92b5937": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2012be66-4b46-4f09-8ebf-12523a2ebd88",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Daniel Scheidemantel Camargo <226695741+danscheidema_meli@users.noreply.github.com>"
+    }
+  }
+}
